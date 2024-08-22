@@ -1,5 +1,3 @@
-Here is the updated list of commands reflecting the commands from the code you provided:
-
 ---
 
 # Madfut-Discord-Economy-Bot
